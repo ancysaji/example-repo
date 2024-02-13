@@ -3,7 +3,7 @@ RUN echo 'moving to file copy phase'
 
 RUN mkdir -p /calculator/app
 
-COPY package*.json
+COPY package*.json ./
 
 RUN npm install
 
