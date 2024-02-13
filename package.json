@@ -1,0 +1,14 @@
+{
+  "name": "stringcalculator",
+  "version": "1.0.0",
+  "description": "First_Node_App",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ancysaji",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
